@@ -9,15 +9,7 @@ package code_challenges;
 
 public class MethodNames {
 
-    /***************************************************
-     Change these first two boolean values to control
-     whether you see the expected result and/or hints.
-     ****************************************************/
-    static boolean showExpectedResult = false;
-    static boolean showHints = false;
-
     static String message = "default message";
-
 
     public static void main(String[] args) {
         // TODO: Write the method's name inside of the quotation marks below
