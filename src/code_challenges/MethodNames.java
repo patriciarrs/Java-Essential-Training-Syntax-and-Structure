@@ -7,7 +7,7 @@ package code_challenges;
  Your job is to identify the method's name.
  ****************************************************/
 
-class MethodNames {
+public class MethodNames {
 
     /***************************************************
      Change these first two boolean values to control
