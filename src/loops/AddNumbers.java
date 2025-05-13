@@ -9,7 +9,7 @@ import java.util.Scanner;
  * repeat this action until they indicate they are done.
  */
 public class AddNumbers {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int runAgain = 0;
