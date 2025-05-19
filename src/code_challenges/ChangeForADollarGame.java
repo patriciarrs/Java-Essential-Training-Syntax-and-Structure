@@ -9,7 +9,6 @@ package code_challenges;
  ****************************************************/
 
 public class ChangeForADollarGame {
-
     static boolean isADollar(int numOfPennies, int numOfNickels, int numOfDimes, int numOfQuarters) {
         /***************************************************
          Value of each coin
