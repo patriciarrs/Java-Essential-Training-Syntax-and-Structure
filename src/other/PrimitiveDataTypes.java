@@ -3,12 +3,16 @@ package other;
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
         /* Type = Integral */
+
         // Size = 8-bit; Default = 0 (2^8 = 256; -128 -> 127)
         byte by = 100;
+
         // Size = 16-bit; Default = 0 (2^16 = 65.536; -32.768 -> 32.767 )
         short s = 10000;
+
         // Size = 32-bit; Default = 0 (2^32 = 4.294.967.296; -2^31 -> 2^31 -1)
         int i = 100000; //
+
         // Size = 64-bit; Default = 0L (2^64 = 18.446.744.073.709.551.616; -2^63 -> 2^63 -1)
         long l = 9999999;
 
