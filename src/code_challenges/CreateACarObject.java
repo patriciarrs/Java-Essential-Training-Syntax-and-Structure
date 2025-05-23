@@ -8,7 +8,7 @@ package code_challenges;
  make, model, year, and color.
  ****************************************************/
 
-class CreateACarObject {
+public class CreateACarObject {
     static Car buildCar(String make, String model, int year, String color) {
 
         // TODO: Your code goes here.
