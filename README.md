@@ -1,4 +1,4 @@
-# Java Essential Training - Syntax and Structure
+# Java Essential Training: Syntax and Structure
 
 LinkedIn Learning course by Angie Jones.
 
@@ -10,7 +10,7 @@ Jones provides the foundation for learning how to program with the most recent L
 Angie shows how to install Java and IntelliJ IDEA, a leading Java IDE, and start working with variables, data types, and
 other critical language components. She also helps you control program flow with conditional logic and loops, store data
 with Java collections, and understand how Java implements object-oriented coding principles such as inheritance. Angie
-also offers challenges along the way so you can test your skills as you go.
+also offers challenges along the way, so you can test your skills as you go.
 
 ## Table of contents
 
